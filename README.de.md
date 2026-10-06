@@ -128,3 +128,18 @@ Aktuell wurde noch keine Open-Source-Lizenz ausgewählt. Bis eine Lizenz hinzuge
 ## Hinweis
 
 Dieses Projekt ist ein Community-Addon und steht nicht in Verbindung mit Blizzard Entertainment. World of Warcraft und zugehörige Bezeichnungen sind Marken ihrer jeweiligen Rechteinhaber.
+
+
+## Benennung der Versionen
+
+Alle fertigen ZIP-Versionen verwenden ab jetzt dieses Namensschema:
+
+```text
+MacroIconSearchForever_v.X.XX.x.zip
+```
+
+Beispiel:
+
+```text
+MacroIconSearchForever_v2.10.3.zip
+```
