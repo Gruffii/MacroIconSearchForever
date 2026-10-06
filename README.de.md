@@ -9,6 +9,18 @@ Statt tausende Icons durchzuscrollen, kannst du direkt nach Namen, Farben, Klass
 
 [English README](README.md)
 
+## Vorher / Nachher
+
+### Vorher
+Die normale Makro-Icon-Auswahl von WoW: Forever.
+
+![Vorher - normale WoW Forever Makro-Icon-Auswahl](before.png.png)
+
+### Nachher
+Macro Icon Search ergänzt die Makro-Icon-Auswahl direkt um Suchleiste, Farbfilter, Klassenfilter, Berufsfilter und eine schnelle Navigation durch die Ergebnisse.
+
+![Nachher - Macro Icon Search mit Suche und Filtern](after.png.png)
+
 ## Funktionen
 
 - Schnelle Textsuche, z. B. `fire`, `sword`, `shadow`, `bear`
@@ -128,7 +140,6 @@ Aktuell wurde noch keine Open-Source-Lizenz ausgewählt. Bis eine Lizenz hinzuge
 ## Hinweis
 
 Dieses Projekt ist ein Community-Addon und steht nicht in Verbindung mit Blizzard Entertainment. World of Warcraft und zugehörige Bezeichnungen sind Marken ihrer jeweiligen Rechteinhaber.
-
 
 ## Benennung der Versionen
 
