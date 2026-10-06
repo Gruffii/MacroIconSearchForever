@@ -220,3 +220,18 @@ No open-source license has been selected yet. Until a license is added, normal c
 ## Disclaimer
 
 This is a community-made addon and is not affiliated with or endorsed by Blizzard Entertainment. World of Warcraft and related names are trademarks of their respective owners.
+
+
+## Release naming
+
+All packaged releases use this naming scheme:
+
+```text
+MacroIconSearchForever_v.X.XX.x.zip
+```
+
+Example:
+
+```text
+MacroIconSearchForever_v2.10.3.zip
+```
