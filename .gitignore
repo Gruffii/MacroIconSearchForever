@@ -1,0 +1,14 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Local packaging / temporary files
+*.tmp
+*.bak
+*.log
+dist/
+build/
