@@ -9,6 +9,18 @@ Instead of scrolling through thousands of macro icons, Macro Icon Search adds a 
 
 [Deutsche Beschreibung](README.de.md)
 
+## Before / After
+
+### Before
+Default WoW: Forever macro icon picker.
+
+![Before - default WoW Forever macro icon picker](before.png.png)
+
+### After
+Macro Icon Search adds a search bar, color filters, class filters, profession filters, and fast browsing directly inside the macro icon picker.
+
+![After - Macro Icon Search with search and filters](after.png.png)
+
 ## Features
 
 - **Fast text search** for icon filenames, e.g. `fire`, `sword`, `shadow`, `bear`
@@ -220,7 +232,6 @@ No open-source license has been selected yet. Until a license is added, normal c
 ## Disclaimer
 
 This is a community-made addon and is not affiliated with or endorsed by Blizzard Entertainment. World of Warcraft and related names are trademarks of their respective owners.
-
 
 ## Release naming
 
